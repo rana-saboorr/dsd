@@ -1,0 +1,21 @@
+development
+
+qa team-> quality assurance team sary test perform krti hai 
+
+staging -> yahn testing perform hogi development stage pr bhi test stage pr bhi
+
+dobara code ki screening ho rhi hai.production environment prajati hai.
+
+development staging production/deployment ya 3ino environment proide kry gy github { pages } pr kam perform kr skty ho. 
+
+Required Reviewers:  
+
+environment scret: pin jo ap team k sath share krogy team k elawa koi access nhi kr skta
+
+github pages pr application run ho jay
+
+job in yaml file aur environment ka name same ho.
+
+rules bhi lGA skty 
+
+
